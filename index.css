@@ -1,0 +1,280 @@
+/*
+	@name cover
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container {zoom: small; display: block; position: relative; width: 2500px; width: 2500px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;}
+
+#_bg__cover {
+	top: 0px;
+	left: 0px;
+	width: 1800px;
+	height: 1024px;
+	background: -webkit-linear-gradient(-225.34489478692deg , rgba(0,103,242,1) 0%, rgba(1,186,239,1) 100%);
+	background: -o-linear-gradient(-225.34489478692deg , rgba(0,103,242,1) 0%, rgba(1,186,239,1) 100%);
+	background: -moz-linear-gradient(-225.34489478692deg , rgba(0,103,242,1) 0%, rgba(1,186,239,1) 100%);
+	background: -ms-linear-gradient(-225.34489478692deg , rgba(0,103,242,1) 0%, rgba(1,186,239,1) 100%);
+	background: linear-gradient(-225.34489478692deg , rgba(0,103,242,1) 0%, rgba(1,186,239,1) 100%);
+}
+
+#group_7 {
+	top: -1658px;
+	left: -200px;
+	width: 1332px;
+	height: 1126.03px;
+}
+
+#rectangle_2 {
+	opacity:0.52;
+	top: -100px;
+	left: -433px;
+	width: 110.2px;
+	height: 1482.25px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(163,213,255,1);
+}
+
+
+#rectangle_4 {
+	top: 388px;
+	left: 104px;
+	width: 75.61px;
+	height: 1042.74px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(1,186,239,1);
+}
+
+
+#rectangle_9 {
+	top: 1399px;
+	left: 121px;
+	width: 15.8px;
+	height: 249.64px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(39,154,241,1);
+}
+
+
+#rectangle_10 {
+	top: 1819px;
+	left: 489px;
+	width: 15.8px;
+	height: 128.77px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(163,213,255,1);
+}
+
+
+#rectangle_5 {
+	top: 636px;
+	left: 576px;
+	width: 44.51px;
+	height: 600.1px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(1,186,239,1);
+}
+
+
+#img2 {
+	top:0px;
+	left: 0px;
+	height: 1024px;
+	width: 1800px;
+}
+
+
+#rectangle_7 {
+	top: 578px;
+	left: 369px;
+	width: 145.29px;
+	height: 790.88px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(163,213,255,1);
+}
+
+
+#rectangle_6 {
+	top: 864px;
+	left: -296px;
+	width: 44.51px;
+	height: 858.52px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(39,154,241,1);
+}
+
+
+#rectangle_3 {
+	top: 341px;
+	left: -402px;
+	width: 110.2px;
+	height: 1090.23px;
+	-ms-border-radius: 155.24px;
+	-o-border-radius: 155.24px;
+	-moz-border-radius: 155.24px;
+	-webkit-border-radius: 155.24px;
+	border-radius: 155.24px;
+	
+	-ms-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-moz-transform:rotate(135deg);
+	transform:rotate(135deg);
+	background:rgba(39,154,241,1);
+}
+
+#frame_55 {
+	top: 189px;
+	left: 853px;
+	width: 557px;
+	height: 473.51px;
+}
+#online_calendar_rafiki {
+	top: 0px;
+	left: 0px;
+	width: 301.75px;
+	height: 224.51px;
+}
+#background_complete {
+	top: 0px;
+	left: 0px;
+	width: 301.75px;
+	height: 209.09px;
+}
+
+
+
+
+#control_your_main_events_with_agendly {
+	top: 0px;
+	left: 20px;
+	width: 615px;
+	height: 247px;
+	overflow: hidden;
+	font-family: Graduate;
+	font-size: 54px;
+	text-align: left;
+	line-height: 64.800002574921px;
+	letter-spacing: 1.62px;
+	color:#000000;
+}
+
+
+#be_updated_on_the_current_date__easily_list_your_commitments_and_let_the_notifications_help_you_ {
+	top: 550px;
+	left: 1200px;
+	width: 500px;
+	height: 300px;
+	overflow: hidden;
+	font-family: Brawler;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 43.200001716614px;
+	
+	color:#000000;
+}
+
+#frame_56 {
+	top: 890px;
+	left: 560px;
+	width: 625px;
+	height: 125px;
+}
+
+#click_here_to_read_the_documentation {
+	top: 80px;
+	left: 70px;
+	width: 576px;
+	height: 95px;
+	overflow: hidden;
+	font-family: Brawler;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 28.800001144409px;
+	letter-spacing: 0.48px;
+	color:#FFFFFF;
+	background-color:#1b4367;
+	border-radius: 25px;
+}
+
+
+
+/* Add your custom CSS here */
